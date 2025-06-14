@@ -1105,8 +1105,8 @@
   },
   {
     "url": "assets/902000240.png",
-    "name": "Jota",
-    "tags": ["jota", "boy", "male", "character"],
+    "name": "Alvaro",
+    "tags": ["alvaro", "boy", "male", "character"],
     "type": "character"
   },
   {
@@ -1150,5 +1150,179 @@
     "name": "Skull S22",
     "tags": ["skull toxic warning deadly green ep s22 elite pass season 22"],
     "type": "other"
+  }
+
+
+
+
+
+
+
+
+
+
+
+  ,
+  {
+    "url": "assets/902000278.png",
+    "name": "Jota",
+    "tags": ["jota character rate of fire", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000279.png",
+    "name": "Steffie",
+    "tags": ["steffie character", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000298.png",
+    "name": "Luqueta",
+    "tags": ["luqueta", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000299.png",
+    "name": "Kapella",
+    "tags": ["kapella", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000318.png",
+    "name": "Wolfrahh",
+    "tags": ["wolfrahh", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000319.png",
+    "name": "Clu",
+    "tags": ["clu detective", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000336.png",
+    "name": "Jai",
+    "tags": ["jai hrithik roshan", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000350.png",
+    "name": "Dasha",
+    "tags": ["dasha", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000351.png",
+    "name": "K",
+    "tags": ["k", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902000367.png",
+    "name": "Chrono",
+    "tags": ["chrono cr7", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902026007.png",
+    "name": "Skyler",
+    "tags": ["skyler", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902026008.png",
+    "name": "Shirou",
+    "tags": ["shirou", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902027007.png",
+    "name": "Maro",
+    "tags": ["maro", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902027008.png",
+    "name": "Xayne",
+    "tags": ["xayne", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902028007.png",
+    "name": "D-Bee",
+    "tags": ["dbee d-bee d bee dbee", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902029007.png",
+    "name": "Dimitri",
+    "tags": ["dimitri demitri demetre", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902029008.png",
+    "name": "Thiva",
+    "tags": ["thiva", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902030007.png",
+    "name": "Leon",
+    "tags": ["leon", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902030008.png",
+    "name": "Otho",
+    "tags": ["otho", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902031007.png",
+    "name": "Nairi",
+    "tags": ["nairi", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902033008.png",
+    "name": "Kenta",
+    "tags": ["kenta", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902034024.png",
+    "name": "A-Patroa",
+    "tags": ["apatroa patroa a-patroa dancer", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902034026.png",
+    "name": "Homer",
+    "tags": ["homer", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902030007.png",
+    "name": "Iris",
+    "tags": ["iris", "girl", "female", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902035016.png",
+    "name": "J. Biebs",
+    "tags": ["justin jbieber jbs jbiebs bieber beber", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902036007.png",
+    "name": "Tatsuya",
+    "tags": ["tatsuya", "boy", "male", "character"],
+    "type": "character"
+  },
+  {
+    "url": "assets/902038005.png",
+    "name": "Santino",
+    "tags": ["santino santonio", "boy", "male", "character"],
+    "type": "character"
   }
 ]
